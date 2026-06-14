@@ -10,7 +10,7 @@ A machine learning web app built with **Streamlit** and **scikit-learn** that pr
 
 ## 📸 Screenshot
 
-![Iris Flower Predictor App](screenshot.png)
+![Iris Flower Predictor App](Screenshot.png)
 
 
 
